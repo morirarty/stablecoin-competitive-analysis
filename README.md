@@ -27,3 +27,4 @@ By querying raw ERC-20 smart contract logs (`evt_Transfer`) on the Ethereum Main
 2. Install requirements: 
    ```bash
    pip install pandas matplotlib dune-client
+<img width="2057" height="1105" alt="image (5)" src="https://github.com/user-attachments/assets/5c8f67f8-b303-4137-ba45-735a1239d4f5" />
